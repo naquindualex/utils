@@ -25,3 +25,7 @@ Personal development log — notes, findings, and ongoing work.
 - Consolidated duplicate helper functions
 - Documented config options
 - Reorganised test fixtures
+
+## 2026-03-30
+- Tested build on clean environment
+- Improved error handling in edge cases
